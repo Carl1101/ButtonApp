@@ -1,0 +1,24 @@
+<resources>
+    <string name="app_name">ButtonApp</string>
+    <string name="push_button">PUSH BUTTON</string>
+    <string name="button_with_icon">BUTTON WITH ICON</string>
+    <string name="colors_buttons_png">COLORS BUTTONS PNG</string>
+    <string name="colors_buttons_val">COLORS BUTTONS #VAL</string>
+    <string name="toggle_button_off">TOGGLE BUTTON OFF</string>
+    <string name="toggle_button_on">TOGGLE BUTTON ON</string>
+    <string name="switch_button">Switch Button</string>
+    <string name="image_button">Image Button:</string>
+    <string name="new_button_msg">Push Button Press Message !!!</string>
+    <string name="icon_button_msg">Icon Button Press Message !!!</string>
+    <string name="red">RED</string>
+    <string name="blue">BLUE</string>
+    <string name="purple">PURPLE</string>
+    <string name="green">GREEN</string>
+    <string name="orange">ORANGE</string>
+    <string name="black">BLACK</string>
+    <string name="default_focused">DEFAULT FOCUSED</string>
+    <string name="light_blue">LIGHT BLUE</string>
+    <string name="brown">BROWN</string>
+    <string name="pink">PINK</string>
+    <string name="yellow">YELLOW</string>
+</resources>
